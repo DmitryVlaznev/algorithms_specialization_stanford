@@ -1,2 +1,3 @@
-# algorithms_specialization_stanford
-My solutions to Coursera Algorithms Specialization by Stanford University
+# [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) Offered By Stanford University
+
+My solutions.
